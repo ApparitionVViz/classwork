@@ -1,0 +1,6 @@
+C:\Users\m2501888\source\repos\GameOfLife.WPF\GameOfLide.Core\bin\Debug\GameOfLide.Core.dll
+C:\Users\m2501888\source\repos\GameOfLife.WPF\GameOfLide.Core\bin\Debug\GameOfLide.Core.pdb
+C:\Users\m2501888\source\repos\GameOfLife.WPF\GameOfLide.Core\obj\Debug\GameOfLide.Core.csproj.AssemblyReference.cache
+C:\Users\m2501888\source\repos\GameOfLife.WPF\GameOfLide.Core\obj\Debug\GameOfLide.Core.csproj.CoreCompileInputs.cache
+C:\Users\m2501888\source\repos\GameOfLife.WPF\GameOfLide.Core\obj\Debug\GameOfLide.Core.dll
+C:\Users\m2501888\source\repos\GameOfLife.WPF\GameOfLide.Core\obj\Debug\GameOfLide.Core.pdb
